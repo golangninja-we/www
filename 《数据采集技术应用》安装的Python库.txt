@@ -1,0 +1,17 @@
+1、安装环境要求：Python 3.7以上
+获取源代码网站：https：//curlconverter.com
+2、安装命令如下：
+   1）pip install -i https://pypi.tuna.tsinghua.edu.cn/simple  requests
+   2）pip install -i https://pypi.tuna.tsinghua.edu.cn/simple  pyquery
+   3）pip install -i https://pypi.tuna.tsinghua.edu.cn/simple  lxml  
+   4）pip install -i https://pypi.tuna.tsinghua.edu.cn/simple  Flake8
+   5）pip install -i https://pypi.tuna.tsinghua.edu.cn/simple  beautifulsoup4
+   6）pip install python-whois
+   7）pip install OpenCV-Python
+   8）pip install Selenium
+  9）pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pyquery
+10）pip install -i https://pypi.tuna.tsinghua.edu.cn/simple itchat 
+11）pip install -i https://pypi.tuna.tsinghua.edu.cn/simple Matplotlib
+12）pip install -i https://pypi.tuna.tsinghua.edu.cn/simple scikit-learn
+13）pip install -i https://pypi.tuna.tsinghua.edu.cn/simple Pandas 
+14）pip install -i https://pypi.tuna.tsinghua.edu.cn/simple  NumPy  
